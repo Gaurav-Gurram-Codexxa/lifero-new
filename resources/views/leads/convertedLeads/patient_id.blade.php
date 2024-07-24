@@ -1,0 +1,2 @@
+{{$row->patient_id}}
+
